@@ -35,7 +35,7 @@ All your HTML for the Table of Contents in the `aside` element must be generated
 ## Bonus Options
 
 - [ ] Write a `for loop` or use an array method to iterate over the headers collection array and algorithmically generate the Table of Contents (if you manually hard-coded them).
-- [ ] Add a "Table of Contents" `h1` element to the `aside` element using DOM manipulation.
+- [ ] Think about accessibility and whether or not your HTML is semantic. If not, update your elements to convey more meaning!
 - [ ] Modify the Table of Contents, either via the HTML file or DOM manipulation, to contain jump links in the Table of Contents listings that link the user to that section of the page. (Hint: think about how you might be able to create and use an `a` tag and set its `href` attribute. Try to do this via DOM manipulation only, but if needed to complete this step feel free to tweak the HTML.) See this [tutorial](https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html) for more ideas on jump links.
 - [ ] Add more styles to your `style.css` file to make your Table of Contents look more polished! Or check out the MDN [documentation](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style) on setting inline styles via DOM Manipulation.
 
