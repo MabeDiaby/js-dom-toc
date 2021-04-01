@@ -5,7 +5,7 @@
 1. Fork this repo and clone it down to your `sei/homework` folder. Switch to a development branch.
 2. Navigate into the directory and open the `index.html` file with Live Server in your browser window to see your DOM updates.
 3. Follow the directions below. Remember to make frequent commits with descriptive messages. When finished, submit your work via a pull request.
-4. Unless otherwise specified, homework is due the next day at 9:00 AM EST.
+4. Unless otherwise specified, homework is due the next day at 10:00 AM EST.
 
 ## Instructions
 
