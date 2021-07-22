@@ -41,6 +41,6 @@ All your HTML for the Table of Contents in the `aside` element must be generated
 
 ## Further Reading & Practice
 
-- A challenge [assignment](https://git.generalassemb.ly/SEIR-1130/js-dom-GOT-fanpage) to practice your DOM manipulation and event listener SKILLZ.
+- A challenge [assignment](https://git.generalassemb.ly/SEI-712/js-dom-GOT-fanpage) to practice your DOM manipulation and event listener SKILLZ.
 
 - Khan Academy has a tutorial and quiz on [DOM](https://www.khanacademy.org/computing/computer-programming/html-css-js/js-and-the-dom/pt/the-dom-document-object-model).
